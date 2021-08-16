@@ -27,14 +27,15 @@ nav {
   nav > a {
     color: white; }
 
-#main {
+main {
   max-width: 1148px;
   margin: 0 auto; }
 
 #titulo-principal {
   text-align: center; }
 
-#origem, #principal {
+#origem,
+#principal {
   display: flex;
   flex-flow: row nowrap; }
 
@@ -71,7 +72,8 @@ nav {
   margin-top: 10px;
   text-align: center; }
 
-#ingredientes, .ingredientes {
+#ingredientes,
+.ingredientes {
   margin: 20px 10px; }
 
 .outros-bolos {
