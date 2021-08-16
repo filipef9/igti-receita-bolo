@@ -122,8 +122,8 @@ footer {
   max-width: 40px;
   max-height: 40px;
   padding: 5px;
-}
-
-.social-icon:hover {
-  cursor: pointer;
+  
+  &:hover {
+    cursor: pointer;
+  }
 }
